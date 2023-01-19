@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="add_missing">ADD MISSING PLACES</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="login">login</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="code">CODE</string>
+    <string name="verification">Verification</string>
+    <string name="otp_description_text">code</string>
+    <string name="forget_password_detail">PROVIDE YOUR ACCOUNTS EMAIL FOR WHICH YOU WANT TO RESET YOUR PASSWORD</string>
+    <string name="email">Email</string>
+    <string name="via_mail">Via Mail</string>
+    <string name="make_selection">MAKE SELECTION</string>
+    <string name="make_selection_detail">Select which contact detail we use to reset password?</string>
+    <string name="via_sms">Via SMS</string>
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_detail">Your identity has been verified! Set your new Password</string>
+    <string name="password_updated">Password Updated</string>
+    <string name="password_updated_success_message">Your Password has been Updated!</string>
+    <string name="page_title">Page Title</string>
+
+</resources>
