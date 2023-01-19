@@ -5,18 +5,5 @@ Technologies used : Kotlin, XML, Android SDK, Room Database.
 
 Screenshots of the application: - 
 
-![Alt text]([https://postimg.cc/HrgYBqrr](https://i.postimg.cc/W1Ddbjjw/Whats-App-Image-2023-01-20-at-2-35-05-AM.jpg
- "Preview")
-
-![Alt text](https://postimg.cc/qhz4N055
- "Preview")
-
-![Alt text](https://postimg.cc/MnmW49Bd
- "Preview")
-
-![Alt text](https://postimg.cc/Lq4HMjBR
- "Preview")
-
-![Alt text](https://postimg.cc/PL6dfN2D
- "Preview")
+[![Whats-App-Image-2023-01-20-at-2-35-05-AM.png](https://i.postimg.cc/9fCzP9ZJ/Whats-App-Image-2023-01-20-at-2-35-05-AM.png)](https://postimg.cc/68b9tyHv)
 
